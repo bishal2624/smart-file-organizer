@@ -1,0 +1,4 @@
+# Smart File Organizer
+# This project uses only the Python standard library.
+# No third-party packages or external dependencies are required.
+# Compatible with Python 3.10 or newer (tkinter is included with standard Python installers).

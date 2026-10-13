@@ -1,0 +1,26 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Application runtime logs and reports
+logs/
+
+# Test data folders
+sample_test_folder/
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+~$*
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
